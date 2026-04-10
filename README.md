@@ -1,7 +1,5 @@
 # IMDB-Movie-Recommendation-System
-Scraped 4305 IMDB 2024 movies using Selenium | Built NLP recommendation engine using TF-IDF + Cosine Similarity | Interactive Streamlit dashboard
-# 🎬 IMDB Movie Recommendation System
-End-to-end NLP system for movie recommendations using storyline similarity, TF-IDF vectorization, Cosine Similarity, and Streamlit dashboard — built on real scraped IMDB 2024 data.
+Scraped 4305 IMDB 2024 movies using Selenium | Built End-to-end NLP system for movie recommendation  using TF-IDF + Cosine Similarity and Interactive Streamlit dashboard
 
 ---
 
